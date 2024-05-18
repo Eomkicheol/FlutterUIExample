@@ -12,3 +12,4 @@ export 'examples/ex_11_sliver_fill_view_port.dart';
 export 'examples/ex_12_sliver_overlap_absober.dart';
 export 'examples/ex_13_sliver_app_grid.dart';
 export 'examples/ex_14_sliver_app_bar_with_tabs.dart';
+export 'examples/ex_15_sliver_refresh_indicator.dart';

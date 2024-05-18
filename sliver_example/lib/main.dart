@@ -79,6 +79,10 @@ final List<Map<String, dynamic>> _examples = [
     'title': 'Sliver AppBarWithTabs',
     'widget': const SliverAppBarWithTabsExample(),
   },
+  {
+    'title': 'SliverListWithRefresh',
+    'widget': const SliverRefreshIndicatorExample(),
+  },
 ];
 
 class SliverExampleNavigatorList extends StatelessWidget {
