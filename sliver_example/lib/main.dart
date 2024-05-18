@@ -70,7 +70,11 @@ final List<Map<String, dynamic>> _examples = [
   {
     'title': 'Sliver Overlap',
     'widget': const SliverOverlapAbsoberExample(),
-  }
+  },
+  {
+    'title': 'Sliver App Grid Mix',
+    'widget': const SliverAppGridExample(),
+  },
 ];
 
 class SliverExampleNavigatorList extends StatelessWidget {

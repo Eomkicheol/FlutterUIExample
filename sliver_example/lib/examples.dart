@@ -10,3 +10,4 @@ export 'examples/ex_9_sliver_animated_list.dart';
 export 'examples/ex_10_sliver_fill_remaining.dart';
 export 'examples/ex_11_sliver_fill_view_port.dart';
 export 'examples/ex_12_sliver_overlap_absober.dart';
+export 'examples/ex_13_sliver_app_grid.dart';
